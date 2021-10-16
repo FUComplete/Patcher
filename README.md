@@ -7,6 +7,7 @@ pyinstaller.exe --upx-dir="c:\\upx" --clean --win-private-assemblies --onefile -
 ```
 
 Requirements:
+- Python 3.6+
 - [pycdlib](https://github.com/clalancette/pycdlib)
 - This [mhef](https://github.com/IncognitoMan/mhef) fork
 - [UMD-Replace](https://www.romhacking.net/utilities/891/)
