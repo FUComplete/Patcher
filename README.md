@@ -1,7 +1,7 @@
 # Patcher
 Patcher for FUComplete.
 
-Windows only for now, only works when built with [pyinstaller](https://github.com/pyinstaller/pyinstaller) due to paths, to build use:
+Windows only for now (works with wine too), only works when built with [pyinstaller](https://github.com/pyinstaller/pyinstaller) due to paths, to build use:
 ```
 pyinstaller.exe --upx-dir="c:\\upx" --clean --win-private-assemblies --onefile --add-binary "UMD-replace.exe;bin" --add-binary "xdelta3.exe;bin" patcher.py
 ```
