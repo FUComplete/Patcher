@@ -1,3 +1,7 @@
+<div align="center">
+<h3><ins>Archived - Please use <a href="https://github.com/FUComplete/FUCTool">FUCTool</a> instead.</ins></h3>
+</div>
+
 # Patcher
 Patcher for FUComplete.
 
